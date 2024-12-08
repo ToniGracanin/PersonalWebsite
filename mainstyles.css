@@ -16,7 +16,8 @@ body{
 }
 
 .topleft{
-
+	border-style: solid;
+	width: 20%;
 }
 
 .pic{
